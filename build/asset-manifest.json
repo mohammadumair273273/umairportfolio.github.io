@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d58084d2.chunk.css",
+    "main.js": "/static/js/main.a97b35bd.chunk.js",
+    "main.js.map": "/static/js/main.a97b35bd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b79f7dce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b79f7dce.js.map",
+    "static/js/2.b6ca5f6c.chunk.js": "/static/js/2.b6ca5f6c.chunk.js",
+    "static/js/2.b6ca5f6c.chunk.js.map": "/static/js/2.b6ca5f6c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd75bd354f5f32e61faa52ba6c5d8f6a.js": "/precache-manifest.dd75bd354f5f32e61faa52ba6c5d8f6a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d58084d2.chunk.css.map": "/static/css/main.d58084d2.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.jpg": "/static/media/airbnbLogo.fbcc4986.jpg",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.35b22270.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/systems.jpg": "/static/media/systems.a5864757.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b79f7dce.js",
+    "static/js/2.b6ca5f6c.chunk.js",
+    "static/css/main.d58084d2.chunk.css",
+    "static/js/main.a97b35bd.chunk.js"
+  ]
+}
